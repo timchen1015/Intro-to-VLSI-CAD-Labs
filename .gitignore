@@ -1,0 +1,11 @@
+# Lab assignment PDFs 
+Lab*/Lab*.pdf
+
+# Files related to Synthesis
+*_syn.v
+*_syn.sdf
+*.sdf
+*.ddc
+
+.synopsys_dc.setup
+DC.sdc
