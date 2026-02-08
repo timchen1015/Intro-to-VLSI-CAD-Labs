@@ -28,4 +28,4 @@ Navigate to the specific lab directory (e.g., `Lab2/Homework/`) and use the foll
 
 ## Note
 
-Lab assignment spec PDFs are not included in this repository due to confidentiality restrictions.
+Lab assignment spec PDFs and Synthesized results are not included in this repository due to confidentiality restrictions.
